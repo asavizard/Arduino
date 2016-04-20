@@ -16,7 +16,7 @@ This example code is in the public domain.
  http://www.arduino.cc/en/Tutorial/Tone
 
  */
-#include "pitches.h"
+include "pitches.h"
 
 // notes in the melody:
 int melody[] = {
@@ -57,4 +57,4 @@ void loop() {
 
 ![SS ARD][img1]
      
-[img1]: /rakitan/melody.jpg "SS ARD"
+[img1]: /Photo%20Arduino/melody.jpg "SS ARD"
