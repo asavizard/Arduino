@@ -4,11 +4,13 @@
 
   circuit:
   * 8-ohm speaker on digital pin 8
- <ul>
-    <li> created 21 Jan 2010 </li>
-    <li> modified 30 Aug 2011 </li>
-    <li> by Tom Igoe </li>
-</ul>
+
+     created 21 Jan 2010 
+     
+     modified 30 Aug 2011 
+     
+     by Tom Igoe 
+
 ### This example code is in the public domain.
 
    http://www.arduino.cc/en/Tutorial/Tone
