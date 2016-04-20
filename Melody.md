@@ -1,4 +1,4 @@
-![SS ODK][img1]
+
 
 Melody
 
@@ -54,5 +54,7 @@ void loop() {
     }
  delay(100);
 }
+
+![SS ARD][img1]
      
-[img1]: /Photo%20Arduino/melody.JPG "SS ODK"
+[img1]: /rakitan/melody.jpg "SS ARD"
