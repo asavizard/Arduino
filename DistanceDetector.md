@@ -43,3 +43,7 @@
         }
           delay(500);
         } 
+
+![SS ARD][img1]
+     
+[img1]: /Photo%20Arduino/ultrasonic.jpg "SS ARD"
